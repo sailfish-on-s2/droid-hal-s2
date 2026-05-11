@@ -4,6 +4,8 @@
 %define vendor_pretty LeEco
 %define device_pretty Le2
 
+%define droid_target_aarch64 1
+
 %define installable_zip 1
 
 %include rpm/dhd/droid-hal-device.inc
